@@ -1,0 +1,46 @@
+﻿<Window x:Class="MemoDic.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MemoDic"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="BTT_Login" Content="Login" HorizontalAlignment="Left" Height="41" Margin="139,10,0,0" VerticalAlignment="Top" Width="75" Click="BTT_Login_Click" BorderThickness="1"/>
+        <CheckBox x:Name="CHB_Remember_me" Content="Remember me" HorizontalAlignment="Left" Height="20" Margin="10,57,0,0" VerticalAlignment="Top" Width="101" Foreground="#CC000000" Cursor="Hand" Background="White"/>
+
+        <TextBox x:Name="TB_ID" HorizontalAlignment="Left" Height="20" Margin="10,11,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" MaxLength="10"/>
+        <TextBlock IsHitTestVisible="False" Text=" ID" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="{Binding Margin, ElementName=TB_ID}" Foreground="DarkGray">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=TB_ID}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        <TextBox x:Name="TB_PW" HorizontalAlignment="Left" Height="20" Margin="10,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" MaxLength="10" TextChanged="TB_PW_TextChanged"/>
+        <TextBlock IsHitTestVisible="False" Text=" PW" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="{Binding Margin, ElementName=TB_PW}" Foreground="DarkGray">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=TB_PW}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        <TextBox x:Name="TB_Register" HorizontalAlignment="Left" Height="23" Margin="139,56,0,0" TextWrapping="Wrap" Text="Register" VerticalAlignment="Top" Width="59" BorderThickness="0" Foreground="#CC000000" Cursor="Hand" IsReadOnly="True" MouseLeave="TB_Register_MouseLeave" MouseEnter="TB_Register_MouseEnter" PreviewMouseLeftButtonDown="TB_Register_PreviewMouseLeftButtonDown"/>
+        <TextBox x:Name="TB_Slash" HorizontalAlignment="Left" Height="23" Margin="196,56,0,0" TextWrapping="Wrap" Text="/" VerticalAlignment="Top" Width="18" BorderThickness="0" Foreground="#CC000000" Cursor="None" IsReadOnly="True"/>
+        <TextBox x:Name="TB_FindID" HorizontalAlignment="Left" Height="23" Margin="215,56,0,0" TextWrapping="Wrap" Text="Find ID" VerticalAlignment="Top" Width="70" BorderThickness="0" Foreground="#CC000000" Cursor="Hand" IsReadOnly="True" MouseEnter="TB_FindID_MouseEnter" PreviewMouseLeftButtonDown="TB_FindID_PreviewMouseLeftButtonDown" MouseLeave="TB_FindID_MouseLeave"/>
+        <TextBox x:Name="TB_Message" HorizontalAlignment="Left" Height="23" Margin="70,282,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="427" IsEnabled="False"/>
+        <TextBox x:Name="STB_Message" HorizontalAlignment="Left" Height="23" Margin="7,282,0,0" TextWrapping="Wrap" Text="Message:" VerticalAlignment="Top" Width="58" BorderThickness="0"/>
+
+    </Grid>
+</Window>

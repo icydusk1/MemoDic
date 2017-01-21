@@ -1,0 +1,59 @@
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic\MemoDic\bin\Debug\MemoDic.exe.config
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic\MemoDic\bin\Debug\MemoDic.exe
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic\MemoDic\bin\Debug\MemoDic.pdb
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic\MemoDic\obj\Debug\MemoDic.csprojResolveAssemblyReference.cache
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic\MemoDic\obj\Debug\MainWindow.g.cs
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic\MemoDic\obj\Debug\App.g.cs
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic\MemoDic\obj\Debug\MemoDic_MarkupCompile.cache
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic\MemoDic\obj\Debug\MemoDic_MarkupCompile.lref
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic\MemoDic\obj\Debug\MainWindow.baml
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic\MemoDic\obj\Debug\MemoDic.g.resources
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic\MemoDic\obj\Debug\MemoDic.Properties.Resources.resources
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic\MemoDic\obj\Debug\MemoDic.csproj.GenerateResource.Cache
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic\MemoDic\obj\Debug\MemoDic.exe
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic\MemoDic\obj\Debug\MemoDic.pdb
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic(170103)_v1.1\MemoDic\bin\Debug\MemoDic.exe.config
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic(170103)_v1.1\MemoDic\obj\Debug\MemoDic.exe
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic(170103)_v1.1\MemoDic\obj\Debug\MemoDic.pdb
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170103)_v1.2\MemoDic\bin\Debug\MemoDic.exe.config
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170103)_v1.2\MemoDic\obj\Debug\MemoDic.exe
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170103)_v1.2\MemoDic\obj\Debug\MemoDic.pdb
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170103)_v1.2\MemoDic\bin\Debug\MemoDic.exe
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170103)_v1.2\MemoDic\bin\Debug\MemoDic.pdb
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170103)_v1.2\MemoDic\obj\Debug\MemoDic.csprojResolveAssemblyReference.cache
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170103)_v1.2\MemoDic\obj\Debug\MainWindow.g.cs
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170103)_v1.2\MemoDic\obj\Debug\App.g.cs
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170103)_v1.2\MemoDic\obj\Debug\MemoDic_MarkupCompile.cache
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170103)_v1.2\MemoDic\obj\Debug\MemoDic_MarkupCompile.lref
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170103)_v1.2\MemoDic\obj\Debug\MainWindow.baml
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170103)_v1.2\MemoDic\obj\Debug\MemoDic.g.resources
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170103)_v1.2\MemoDic\obj\Debug\MemoDic.Properties.Resources.resources
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170103)_v1.2\MemoDic\obj\Debug\MemoDic.csproj.GenerateResource.Cache
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호화식\MemoDic\bin\Debug\MemoDic.exe.config
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호화식\MemoDic\obj\Debug\MemoDic.exe
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호화식\MemoDic\obj\Debug\MemoDic.pdb
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호화식\MemoDic\obj\Debug\MemoDic.csprojResolveAssemblyReference.cache
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호화식\MemoDic\obj\Debug\MainWindow.g.cs
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호화식\MemoDic\obj\Debug\App.g.cs
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호화식\MemoDic\obj\Debug\MemoDic_MarkupCompile.cache
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호화식\MemoDic\obj\Debug\MemoDic_MarkupCompile.lref
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호화식\MemoDic\bin\Debug\MemoDic.exe
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호화식\MemoDic\bin\Debug\MemoDic.pdb
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호화식\MemoDic\obj\Debug\MainWindow.baml
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호화식\MemoDic\obj\Debug\MemoDic.g.resources
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호화식\MemoDic\obj\Debug\MemoDic.Properties.Resources.resources
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호화식\MemoDic\obj\Debug\MemoDic.csproj.GenerateResource.Cache
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호변경\MemoDic\bin\Debug\MemoDic.exe.config
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호변경\MemoDic\obj\Debug\MemoDic.exe
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호변경\MemoDic\obj\Debug\MemoDic.pdb
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호변경\MemoDic\bin\Debug\MemoDic.exe
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호변경\MemoDic\bin\Debug\MemoDic.pdb
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호변경\MemoDic\obj\Debug\MemoDic.csprojResolveAssemblyReference.cache
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호변경\MemoDic\obj\Debug\MainWindow.g.cs
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호변경\MemoDic\obj\Debug\App.g.cs
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호변경\MemoDic\obj\Debug\MemoDic_MarkupCompile.cache
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호변경\MemoDic\obj\Debug\MemoDic_MarkupCompile.lref
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호변경\MemoDic\obj\Debug\MainWindow.baml
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호변경\MemoDic\obj\Debug\MemoDic.g.resources
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호변경\MemoDic\obj\Debug\MemoDic.Properties.Resources.resources
+E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\MemoDic 개발\MemoDic(170110)_v1.3 암호변경\MemoDic\obj\Debug\MemoDic.csproj.GenerateResource.Cache

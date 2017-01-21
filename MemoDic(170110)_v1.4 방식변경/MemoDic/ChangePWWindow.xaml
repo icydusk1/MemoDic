@@ -1,0 +1,64 @@
+﻿<Window x:Class="MemoDic.ChangePWWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MemoDic"
+        mc:Ignorable="d"
+        Title="Change PW" Height="213.462" Width="225">
+    <Grid>
+        <TextBox x:Name="TB_PW" HorizontalAlignment="Left" Height="20" Margin="43,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" MaxLength="10" TextChanged="TB_PW_TextChanged"/>
+        <TextBlock IsHitTestVisible="False" Text=" PW" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="{Binding Margin, ElementName=TB_PW}" Foreground="DarkGray">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=TB_PW}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        <TextBox x:Name="TB_NewPW" HorizontalAlignment="Left" Height="20" Margin="43,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" MaxLength="10" TextChanged="TB_PW_TextChanged"/>
+        <TextBlock IsHitTestVisible="False" Text=" New PW" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="{Binding Margin, ElementName=TB_NewPW}" Foreground="DarkGray">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=TB_NewPW}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        <TextBox x:Name="TB_ConfirmNewPW" HorizontalAlignment="Left" Height="20" Margin="43,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" MaxLength="10" TextChanged="TB_PW_TextChanged"/>
+        <TextBlock IsHitTestVisible="False" Text=" Confirm New PW" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="{Binding Margin, ElementName=TB_ConfirmNewPW}" Foreground="DarkGray">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=TB_ConfirmNewPW}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        <Button x:Name="BT_OK" Content="OK" HorizontalAlignment="Left" Height="31" Margin="24,126,0,0" VerticalAlignment="Top" Width="59"/>
+        <Button x:Name="BT_Cancel" Content="Cancel" HorizontalAlignment="Left" Height="31" Margin="131,126,0,0" VerticalAlignment="Top" Width="59"/>
+        <TextBox x:Name="TB_HintForPW" HorizontalAlignment="Left" Height="20" Margin="43,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" MaxLength="10" TextChanged="TB_PW_TextChanged"/>
+        <TextBlock IsHitTestVisible="False" Text=" Hint for PW" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="{Binding Margin, ElementName=TB_HintForPW}" Foreground="DarkGray">
+            <TextBlock.Style>
+                <Style TargetType="{x:Type TextBlock}">
+                    <Setter Property="Visibility" Value="Collapsed"/>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Text, ElementName=TB_HintForPW}" Value="">
+                            <Setter Property="Visibility" Value="Visible"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>    </Grid>
+</Window>
